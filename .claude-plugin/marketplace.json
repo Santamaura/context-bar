@@ -1,0 +1,11 @@
+{
+  "name": "context-bar",
+  "owner": { "name": "Santamaura" },
+  "plugins": [
+    {
+      "name": "context-bar",
+      "source": "./",
+      "description": "Context-window fill bar with auto-compact marker, early warning, automatic handoff and compaction notices."
+    }
+  ]
+}

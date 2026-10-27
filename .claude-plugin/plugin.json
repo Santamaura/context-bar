@@ -1,0 +1,10 @@
+{
+  "name": "context-bar",
+  "version": "0.1.0",
+  "description": "A context-window fill bar above the prompt that marks the auto-compact point, warns before it, runs a handoff first, and announces compaction.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Santamaura"
+  }
+}
